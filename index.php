@@ -36,7 +36,6 @@ $show_complete_tasks = rand(0, 1);
 ]
 ]
 ?>
-
 <!DOCTYPE html>
 <html lang="ru">
 
